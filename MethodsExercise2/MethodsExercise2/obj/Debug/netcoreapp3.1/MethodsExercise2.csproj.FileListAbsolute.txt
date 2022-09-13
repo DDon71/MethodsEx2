@@ -1,0 +1,14 @@
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2.deps.json
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2.runtimeconfig.dev.json
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2.dll
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/bin/Debug/netcoreapp3.1/MethodsExercise2.pdb
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.dll
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.pdb
+/Users/deucey1tap/Desktop/repos/Methods2/MethodsExercise2/MethodsExercise2/obj/Debug/netcoreapp3.1/MethodsExercise2.genruntimeconfig.cache
